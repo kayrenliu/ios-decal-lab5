@@ -44,7 +44,7 @@ Try building. You'll see an error pop up saying "Signing for "snapChatProject" r
 
 ![](/README-images/README-2.png)
 
-Once you've set your Team as your Apple ID, try running your app again on your device. If everything's working, you'll see a blank gray view with some buttons (that don't work yet). 
+Once you've set your Team as your Apple ID, try running your app again on your device. If everything's working, you'll see a blank gray view with some buttons (that don't work yet). If you still are having an issue, try changing your bundle identifier to something unique (like your name).
 
 ## Part 2: Connecting Outlets ##
 Just so you become more familiar with the which views are which, we left the outlets and actions in **ImagePickerViewController.swift** unconnected to storyboard. **Go ahead and connect these outlets and actions in ImagePickerViewController.swift to Main.storyboard**. Make sure to read the comments above each IBOutlet and IBAction, so that you are sure you are connecting the correct outlets and actions. 
@@ -201,7 +201,7 @@ Once you have finished, please submit your files to [Gradescope](https://gradesc
 
 To submit, please upload your code to either GitHub or Bitbucket, and use the "Github" or "Bitbucket" submission feature on Gradescope (we've experienced the fewest amount of bugs with students who have submitted this way). Please check out the [slides in Lecture 3](http://iosdecal.com/Lectures/Lecture3.pdf) for step-by-step submission instructions if you're confused about how to do this (or ask a TA!)
 
-Checkoff Form for  Akilesh's Lab - 
+Checkoff Form for  Akilesh's Lab - https://goo.gl/forms/vZatBoxZlfLPAy9n2
 
 Checkoff Form for Paige's Lab - https://goo.gl/forms/OqOShJa2FmdCbLoi1
 
